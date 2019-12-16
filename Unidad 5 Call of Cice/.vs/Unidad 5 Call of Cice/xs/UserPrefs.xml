@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{AE07F64B-C37A-F0CD-AA24-0A23E4F9FFA3}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/GameAssets/Scripts/Weapon Stuff/Weapon.cs">
+    <Files>
+      <File FileName="Assets/GameAssets/Scripts/Weapon Stuff/Weapon.cs" Line="80" Column="54" />
+      <File FileName="Assets/GameAssets/Scripts/Weapon Stuff/ParticleWeapon.cs" Line="143" Column="96" />
+      <File FileName="Assets/GameAssets/Scripts/PlayerController.cs" Line="116" Column="10" />
+      <File FileName="Assets/GameAssets/Scripts/Goal.cs" />
+      <File FileName="Assets/GameAssets/Scripts/Enemy/Spawner.cs" Line="77" Column="66" />
+      <File FileName="Assets/GameAssets/Scripts/Weapon Stuff/Bullet.cs" />
+      <File FileName="Assets/GameAssets/Scripts/PlayerSoundsManager.cs" Line="30" Column="26" />
+      <File FileName="Assets/GameAssets/Scripts/Bar Stuff/Stamina.cs" />
+      <File FileName="Assets/GameAssets/Scripts/Bar Stuff/StaminaBar.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Unidad 5 Call of Cice" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="66927643-6405-4a68-a849-e4ead697e0aa" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
